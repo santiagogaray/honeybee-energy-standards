@@ -1,0 +1,29 @@
+honeybee\_energy\_standards package
+===================================
+
+Subpackages
+-----------
+
+.. toctree::
+
+    honeybee_energy_standards.construction
+    honeybee_energy_standards.data
+    honeybee_energy_standards.lib
+    honeybee_energy_standards.material
+    honeybee_energy_standards.schedule
+
+Submodules
+----------
+
+.. toctree::
+
+   honeybee_energy_standards.constructionset
+   honeybee_energy_standards.programtype
+
+Module contents
+---------------
+
+.. automodule:: honeybee_energy_standards
+    :members:
+    :undoc-members:
+    :show-inheritance:

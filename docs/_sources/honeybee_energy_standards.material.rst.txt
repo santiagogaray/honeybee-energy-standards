@@ -1,0 +1,19 @@
+honeybee\_energy\_standards.material package
+============================================
+
+Submodules
+----------
+
+.. toctree::
+
+   honeybee_energy_standards.material.gas
+   honeybee_energy_standards.material.glazing
+   honeybee_energy_standards.material.opaque
+
+Module contents
+---------------
+
+.. automodule:: honeybee_energy_standards.material
+    :members:
+    :undoc-members:
+    :show-inheritance:

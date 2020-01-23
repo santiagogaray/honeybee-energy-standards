@@ -1,0 +1,7 @@
+honeybee\_energy\_standards.lib.materials module
+================================================
+
+.. automodule:: honeybee_energy_standards.lib.materials
+    :members:
+    :undoc-members:
+    :show-inheritance:

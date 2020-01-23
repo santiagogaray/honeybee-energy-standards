@@ -1,0 +1,18 @@
+honeybee\_energy\_standards.schedule package
+============================================
+
+Submodules
+----------
+
+.. toctree::
+
+   honeybee_energy_standards.schedule.day
+   honeybee_energy_standards.schedule.ruleset
+
+Module contents
+---------------
+
+.. automodule:: honeybee_energy_standards.schedule
+    :members:
+    :undoc-members:
+    :show-inheritance:

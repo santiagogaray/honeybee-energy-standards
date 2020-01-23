@@ -1,0 +1,18 @@
+honeybee\_energy\_standards.construction package
+================================================
+
+Submodules
+----------
+
+.. toctree::
+
+   honeybee_energy_standards.construction.opaque
+   honeybee_energy_standards.construction.window
+
+Module contents
+---------------
+
+.. automodule:: honeybee_energy_standards.construction
+    :members:
+    :undoc-members:
+    :show-inheritance:

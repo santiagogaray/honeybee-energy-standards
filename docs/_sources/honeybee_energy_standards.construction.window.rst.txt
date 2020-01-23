@@ -1,0 +1,7 @@
+honeybee\_energy\_standards.construction.window module
+======================================================
+
+.. automodule:: honeybee_energy_standards.construction.window
+    :members:
+    :undoc-members:
+    :show-inheritance:

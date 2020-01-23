@@ -1,0 +1,7 @@
+honeybee\_energy\_standards.lib.schedules module
+================================================
+
+.. automodule:: honeybee_energy_standards.lib.schedules
+    :members:
+    :undoc-members:
+    :show-inheritance:
